@@ -1,3 +1,6 @@
 datasets
 *.pt
 *.pth
+
+colombian_coffee
+models
